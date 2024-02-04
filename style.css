@@ -49,4 +49,24 @@ body section {
   position: absolute;
   left: 129px;
   bottom: 93px;
+}
+
+#textbox .box {
+  position: relative;
+}
+#textbox .box .minibox {
+  width: 100px;
+  height: 100px;
+  border: 1px solid white;
+  background-color: #cc81a7;
+  padding: 7px;
+  margin: 4px;
+}
+#textbox .box .minibox h1 {
+  color: white;
+}
+#textbox .box .big {
+  position: absolute;
+  left: 235px;
+  top: 302px;
 }/*# sourceMappingURL=style.css.map */
